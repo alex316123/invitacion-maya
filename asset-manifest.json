@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/invitacion-maya/static/css/main.10e882ae.css",
-    "main.js": "/invitacion-maya/static/js/main.a9bc1e57.js",
+    "main.js": "/invitacion-maya/static/js/main.0e33f9bf.js",
     "static/js/453.31f5079b.chunk.js": "/invitacion-maya/static/js/453.31f5079b.chunk.js",
     "index.html": "/invitacion-maya/index.html",
     "main.10e882ae.css.map": "/invitacion-maya/static/css/main.10e882ae.css.map",
-    "main.a9bc1e57.js.map": "/invitacion-maya/static/js/main.a9bc1e57.js.map",
+    "main.0e33f9bf.js.map": "/invitacion-maya/static/js/main.0e33f9bf.js.map",
     "453.31f5079b.chunk.js.map": "/invitacion-maya/static/js/453.31f5079b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10e882ae.css",
-    "static/js/main.a9bc1e57.js"
+    "static/js/main.0e33f9bf.js"
   ]
 }
