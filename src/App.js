@@ -108,7 +108,7 @@ function App() {
           <div className="mapa-container">
             <iframe
               title="Ubicación Iglesia Santa Cruz"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3732.3563519891865!2d-102.5857!3d22.77!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86b1c6b6b6b6b6b7%3A0x0!2sAv%20M%C3%A9xico%2098%2C%20La%20Florida%2C%2098618%20Guadalupe%2C%20Zac!5e0!3m2!1ses!2smx!4v1234567890"
+              src="https://www.google.com/maps?q=22.7617602,-102.5408547&z=17&output=embed"
               width="100%"
               height="300"
               style={{ border: 0, borderRadius: '10px' }}
@@ -154,7 +154,7 @@ function App() {
           <div className="mapa-container">
             <iframe
               title="Ubicación Salón Garabatos"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3732.45!2d-102.58!3d22.77!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1sCalzada%20Fco.%20Garcia%20Salinas%20702%2C%20Lomas%20del%20Campestre%2C%2098098%20Zacatecas!2b1!5e0!3m2!1ses!2smx!4v1234567890"
+              src="https://www.google.com/maps?q=22.7611809,-102.5510317&z=17&output=embed"
               width="100%"
               height="300"
               style={{ border: 0, borderRadius: '10px' }}
