@@ -45,11 +45,12 @@ body {
   position: absolute;
   width: 6px;
   height: 6px;
-  background: radial-gradient(circle at 30% 30%, #FFE5F0, #FFB6D9);
+  background: radial-gradient(circle at 30% 30%, #FFF76B 0%, #FFD400 60%, #FFB200 100%);
   clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
-  opacity: 0.8;
+  opacity: 0.95;
   animation: fall linear infinite;
-  box-shadow: 0 0 10px rgba(255, 182, 217, 0.8), 0 0 20px rgba(255, 192, 227, 0.5);
+  box-shadow: 0 0 12px rgba(255, 243, 88, 0.95), 0 0 30px rgba(255, 212, 0, 0.75), 0 0 60px rgba(255, 186, 0, 0.45);
+  filter: drop-shadow(0 0 8px rgba(255, 223, 0, 0.6));
 }
 
 @keyframes fall {
